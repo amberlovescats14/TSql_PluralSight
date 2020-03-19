@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "TSql", "TSql\TSql.mdproj", "{5E766CF1-0B80-4957-AAE8-BFBC4AD7185C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7318E882-2345-4E31-B6C1-A45F136105A2}"
+	ProjectSection(SolutionItems) = preProject
+		Section1.txt = Section1.txt
+		WhileLoop.txt = WhileLoop.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Any CPU = Default|Any CPU
